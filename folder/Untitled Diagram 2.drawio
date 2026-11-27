@@ -1,43 +1,107 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="05VVmw5zYoHPjU00Sgmt">
-    <mxGraphModel>
+    <mxGraphModel dx="1588" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="" mermaidData="{&#xa;  &quot;data&quot;: &quot;flowchart LR\n  A11[\&quot;A1.1 Определить рыночный спрос&lt;br&gt;Роль: маркетолог\&quot;] --&gt; A12[\&quot;A1.2 Определиться с товаром&lt;br&gt;Роль: закупщик\&quot;] --&gt; A13[\&quot;A1.3 Найти страну поставщика с низким процентом пошлин&lt;br&gt;Роль: закупщик\&quot;]&quot;,&#xa;  &quot;config&quot;: null,&#xa;  &quot;version&quot;: &quot;12&quot;&#xa;}" id="7">
-          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
-            <mxGeometry as="geometry" />
+        <mxCell id="9i7Yz21helq2il4rMHmO-45" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="591.0000000000001" width="1061.0000003333332" x="54" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-19" edge="1" parent="9i7Yz21helq2il4rMHmO-45" source="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=4;" target="9i7Yz21helq2il4rMHmO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-12" edge="1" parent="9i7Yz21helq2il4rMHmO-45" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=4;" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Определить рыночный спрос" mermaidId="n:A11" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="A1.1 Определить рыночный спрос&#xa;Роль: маркетолог" id="2">
+          <mxCell parent="9i7Yz21helq2il4rMHmO-45" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;container=0;" vertex="1">
+            <mxGeometry height="97" width="152" y="227" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="A1.1 Определить рыночный спрос&#xa;Роль: маркетолог" mermaidId="n:A11" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="A1.1 Определить рыночный спрос&#xa;Роль: маркетолог" id="2">
-          <mxCell parent="7" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
-            <mxGeometry height="150" width="152" x="12" y="23" as="geometry" />
+        <mxCell id="9i7Yz21helq2il4rMHmO-15" edge="1" parent="9i7Yz21helq2il4rMHmO-45" source="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=5;" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Определиться с товаром" mermaidId="n:A12" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="A1.2 Определиться с товаром&#xa;Роль: закупщик" id="3">
+          <mxCell parent="9i7Yz21helq2il4rMHmO-45" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;container=0;" vertex="1">
+            <mxGeometry height="97" width="152" x="192" y="227" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="A1.2 Определиться с товаром&#xa;Роль: закупщик" mermaidId="n:A12" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="A1.2 Определиться с товаром&#xa;Роль: закупщик" id="3">
-          <mxCell parent="7" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
-            <mxGeometry height="108" width="152" x="204" y="44" as="geometry" />
+        <UserObject label="Найти страну поставщика с низким процентом пошлин" mermaidId="n:A13" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="A1.3 Найти страну поставщика с низким процентом пошлин&#xa;Роль: закупщик" id="4">
+          <mxCell parent="9i7Yz21helq2il4rMHmO-45" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;container=0;" vertex="1">
+            <mxGeometry height="97" width="152" x="384" y="227" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="A1.3 Найти страну поставщика с низким процентом пошлин&#xa;Роль: закупщик" mermaidId="n:A13" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="A1.3 Найти страну поставщика с низким процентом пошлин&#xa;Роль: закупщик" id="4">
-          <mxCell parent="7" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
-            <mxGeometry height="172" width="152" x="396" y="12" as="geometry" />
+        <mxCell id="9i7Yz21helq2il4rMHmO-7" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="А1.1" vertex="1">
+          <mxGeometry height="60" width="58" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-8" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Маркетолог" vertex="1">
+          <mxGeometry height="60" width="94" x="58" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-9" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Закупщик" vertex="1">
+          <mxGeometry height="60" width="94" x="250" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-10" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="А1.2" vertex="1">
+          <mxGeometry height="60" width="58" x="192" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-13" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="А1.3" vertex="1">
+          <mxGeometry height="60" width="58" x="384" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-14" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Маркетолог" vertex="1">
+          <mxGeometry height="60" width="94" x="442" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-24" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;X&lt;/font&gt;" vertex="1">
+          <mxGeometry height="83.4487427466151" width="81.6" x="929.5333336666666" y="258.34816247582205" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-27" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Повторно найти закупщика" vertex="1">
+          <mxGeometry height="110.88394584139266" width="181.33333333333331" x="875.1333336666667" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-33" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="&lt;div&gt;А1.5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68.58800773694391" width="65.73333333333333" x="875.1333336666667" y="110.88394584139266" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-34" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Маркетолог" vertex="1">
+          <mxGeometry height="68.58800773694391" width="115.6" x="940.866667" y="110.88394584139266" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-25" edge="1" parent="9i7Yz21helq2il4rMHmO-45" source="9i7Yz21helq2il4rMHmO-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=4;" target="9i7Yz21helq2il4rMHmO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-29" edge="1" parent="9i7Yz21helq2il4rMHmO-45" source="9i7Yz21helq2il4rMHmO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=4;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="9i7Yz21helq2il4rMHmO-34">
+          <mxGeometry relative="1" x="-0.4556" as="geometry">
+            <mxPoint x="970.3333336666666" y="235.76402321083174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-32" connectable="0" parent="9i7Yz21helq2il4rMHmO-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;container=0;" value="Цена завышена" vertex="1">
+          <mxGeometry relative="1" x="0.6087" y="-1" as="geometry">
+            <mxPoint y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-39" edge="1" parent="9i7Yz21helq2il4rMHmO-45" source="9i7Yz21helq2il4rMHmO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=4;" target="9i7Yz21helq2il4rMHmO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-41" connectable="0" parent="9i7Yz21helq2il4rMHmO-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;container=0;" value="Цкна приемлима" vertex="1">
+          <mxGeometry relative="1" x="-0.1782" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Определится с поставщеком" mermaidId="n:A13" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="A1.3 Найти страну поставщика с низким процентом пошлин&#xa;Роль: закупщик" id="9i7Yz21helq2il4rMHmO-16">
+          <mxCell parent="9i7Yz21helq2il4rMHmO-45" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;container=0;" vertex="1">
+            <mxGeometry height="110.88394584139266" width="172.26666666666665" x="658.666667" y="217.19535783365575" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" mermaidId="e:A11-&gt;A12#0" mermaidBaseStyle="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeWidth=2;targetPerimeterSpacing=4;" mermaidBaseValue="" id="5">
-          <mxCell edge="1" parent="7" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeWidth=2;targetPerimeterSpacing=4;" target="3">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" mermaidId="e:A12-&gt;A13#0" mermaidBaseStyle="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeWidth=2;targetPerimeterSpacing=4;" mermaidBaseValue="" id="6">
-          <mxCell edge="1" parent="7" source="3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeWidth=2;targetPerimeterSpacing=4;" target="4">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
+        <mxCell id="9i7Yz21helq2il4rMHmO-17" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="&lt;div&gt;А1.4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68.58800773694391" width="65.73333333333333" x="658.666667" y="328.07930367504844" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-18" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Закупщик" vertex="1">
+          <mxGeometry height="68.58800773694391" width="106.53333333333333" x="724.4000003333333" y="328.07930367504844" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-36" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Настроить логистику" vertex="1">
+          <mxGeometry height="110.88394584139266" width="181.33333333333331" x="879.666667" y="411.5280464216635" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-37" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="&lt;div&gt;А1.6&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68.58800773694391" width="65.73333333333333" x="879.666667" y="522.4119922630562" as="geometry" />
+        </mxCell>
+        <mxCell id="9i7Yz21helq2il4rMHmO-38" parent="9i7Yz21helq2il4rMHmO-45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" value="Маркетолог" vertex="1">
+          <mxGeometry height="68.58800773694391" width="115.6" x="945.4000003333333" y="522.4119922630562" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
